@@ -1,4 +1,4 @@
-# SBU CodeSpace 🎓
+# Aryan SBU CodeSpace 🎓
 
 A centralized space for my university programming coursework at  
 **Shahid Beheshti University**.
